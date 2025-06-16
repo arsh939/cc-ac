@@ -8,94 +8,117 @@
         "fivem": "15634950",
         "ip": "125.99.164.198"
       },
-      "tokens": ["a1", "a2"],
+      "tokens": [
+        "a1",
+        "a2"
+      ],
       "reason": "Create a ticket: discord.gg/5jTTs7wMXx"
     },
-
-    [
-  {
-    "identifiers": {
-      "license": "license:8a142d1e6269eeca76274d2c329459b8b34e451b",
-      "license2": "license2:8a142d1e6269eeca76274d2c329459b8b34e451b",
-      "discord": "discord:1360271756006260939"
+    {
+      "identifiers": {
+        "license": "license:8a142d1e6269eeca76274d2c329459b8b34e451b",
+        "license2": "license2:8a142d1e6269eeca76274d2c329459b8b34e451b",
+        "discord": "discord:1360271756006260939"
+      },
+      "tokens": [
+        "a1",
+        "a2"
+      ],
+      "reason": "Create a ticket: discord.gg/5jTTs7wMXx"
     },
-    "tokens": ["a1", "a2"],
-    "reason": "Create a ticket: discord.gg/5jTTs7wMXx"
-  },
-  {
-    "identifiers": {
-      "license": "license:4955ed00604b2fdcffaea08a67cce9f2b049038f",
-      "license2": "license2:4955ed00604b2fdcffaea08a67cce9f2b049038f",
-      "discord": "discord:1379004730549731348"
+    {
+      "identifiers": {
+        "license": "license:4955ed00604b2fdcffaea08a67cce9f2b049038f",
+        "license2": "license2:4955ed00604b2fdcffaea08a67cce9f2b049038f",
+        "discord": "discord:1379004730549731348"
+      },
+      "tokens": [
+        "a1",
+        "a2"
+      ],
+      "reason": "Create a ticket: discord.gg/5jTTs7wMXx"
     },
-    "tokens": ["a1", "a2"],
-    "reason": "Create a ticket: discord.gg/5jTTs7wMXx"
-  },
-  {
-    "identifiers": {
-      "license": "license:d52d26db5a1c78ca60240e86b40a41496b7bde90",
-      "license2": "license2:f004b0a0c193175103966c203097be3068a726d6",
-      "discord": "discord:1377874820821422130",
-      "xbl": "xbl:2535464584015945",
-      "live": "live:844426305472564",
-      "ip": "171.61.82.127"
+    {
+      "identifiers": {
+        "license": "license:d52d26db5a1c78ca60240e86b40a41496b7bde90",
+        "license2": "license2:f004b0a0c193175103966c203097be3068a726d6",
+        "discord": "discord:1377874820821422130",
+        "xbl": "xbl:2535464584015945",
+        "live": "live:844426305472564",
+        "ip": "171.61.82.127"
+      },
+      "tokens": [
+        "a1",
+        "a2"
+      ],
+      "reason": "Create a ticket: discord.gg/5jTTs7wMXx"
     },
-    "tokens": ["a1", "a2"],
-    "reason": "Create a ticket: discord.gg/5jTTs7wMXx"
-  },
-  {
-    "identifiers": {
-      "steam": "steam:11000014bdbf3f3",
-      "license": "license:7a2cb8915f46b447f530e60aa2c0087445077bd8",
-      "license2": "license2:7a2cb8915f46b447f530e60aa2c0087445077bd8",
-      "discord": "discord:719116288504627201",
-      "xbl": "xbl:2535411276723790",
-      "live": "live:985154779072047",
-      "fivem": "fivem:17052643"
+    {
+      "identifiers": {
+        "steam": "steam:11000014bdbf3f3",
+        "license": "license:7a2cb8915f46b447f530e60aa2c0087445077bd8",
+        "license2": "license2:7a2cb8915f46b447f530e60aa2c0087445077bd8",
+        "discord": "discord:719116288504627201",
+        "xbl": "xbl:2535411276723790",
+        "live": "live:985154779072047",
+        "fivem": "fivem:17052643"
+      },
+      "tokens": [
+        "a1",
+        "a2"
+      ],
+      "reason": "Create a ticket: discord.gg/5jTTs7wMXx"
     },
-    "tokens": ["a1", "a2"],
-    "reason": "Create a ticket: discord.gg/5jTTs7wMXx"
-  },
-  {
-    "identifiers": {
-      "license": "license:ff73398c87a3c9d0383658f8973693f7fbced7df",
-      "license2": "license2:ff73398c87a3c9d0383658f8973693f7fbced7df",
-      "discord": "discord:1246772835112714252",
-      "ip": "49.36.241.152"
+    {
+      "identifiers": {
+        "license": "license:ff73398c87a3c9d0383658f8973693f7fbced7df",
+        "license2": "license2:ff73398c87a3c9d0383658f8973693f7fbced7df",
+        "discord": "discord:1246772835112714252",
+        "ip": "49.36.241.152"
+      },
+      "tokens": [
+        "a1",
+        "a2"
+      ],
+      "reason": "Create a ticket: discord.gg/5jTTs7wMXx"
     },
-    "tokens": ["a1", "a2"],
-    "reason": "Create a ticket: discord.gg/5jTTs7wMXx"
-  },
-  {
-    "identifiers": {
-      "steam": "steam:11000015b5c7aab",
-      "license": "license:457a6ab8f45e07116c1dee5b6271675925e1e78b",
-      "license2": "license2:01a33fac83de10bfce5fd8748525ac03ba739af7",
-      "discord": "discord:1378925045975482429",
-      "fivem": "fivem:11703927"
+    {
+      "identifiers": {
+        "steam": "steam:11000015b5c7aab",
+        "license": "license:457a6ab8f45e07116c1dee5b6271675925e1e78b",
+        "license2": "license2:01a33fac83de10bfce5fd8748525ac03ba739af7",
+        "discord": "discord:1378925045975482429",
+        "fivem": "fivem:11703927"
+      },
+      "tokens": [
+        "a1",
+        "a2"
+      ],
+      "reason": "Create a ticket: discord.gg/5jTTs7wMXx"
     },
-    "tokens": ["a1", "a2"],
-    "reason": "Create a ticket: discord.gg/5jTTs7wMXx"
-  },
-  {
-    "identifiers": {
-      "license": "license:13a8f53385f4c4b7e9088253018b2fa806631d8e",
-      "license2": "license2:13a8f53385f4c4b7e9088253018b2fa806631d8e",
-      "discord": "discord:1357898411508105228"
+    {
+      "identifiers": {
+        "license": "license:13a8f53385f4c4b7e9088253018b2fa806631d8e",
+        "license2": "license2:13a8f53385f4c4b7e9088253018b2fa806631d8e",
+        "discord": "discord:1357898411508105228"
+      },
+      "tokens": [
+        "a1",
+        "a2"
+      ],
+      "reason": "Create a ticket: discord.gg/5jTTs7wMXx"
     },
-    "tokens": ["a1", "a2"],
-    "reason": "Create a ticket: discord.gg/5jTTs7wMXx"
-  },
-  {
-    "identifiers": {
-      "license": "license:78fd35bd2a9c6cda8b7278f6af0c8808087aa94a",
-      "license2": "license2:78fd35bd2a9c6cda8b7278f6af0c8808087aa94a",
-      "discord": "discord:1358216600939008111"
-    },
-    "tokens": ["a1", "a2"],
-    "reason": "Create a ticket: discord.gg/5jTTs7wMXx"
-  }
-]
-
+    {
+      "identifiers": {
+        "license": "license:78fd35bd2a9c6cda8b7278f6af0c8808087aa94a",
+        "license2": "license2:78fd35bd2a9c6cda8b7278f6af0c8808087aa94a",
+        "discord": "discord:1358216600939008111"
+      },
+      "tokens": [
+        "a1",
+        "a2"
+      ],
+      "reason": "Create a ticket: discord.gg/5jTTs7wMXx"
+    }
   ]
 }
