@@ -1,0 +1,15 @@
+{
+  "bans": [
+    {
+      "identifiers": {
+        "license": "license:cc86c31f99f5a39cf54a96f40d19fcf87c2d956e",
+        "license2": "license2:cc86c31f99f5a39cf54a96f40d19fcf87c2d956e",
+        "discord": "discord:1023530404461936660",
+        "fivem": "15634950",
+        "ip": "125.99.164.198"
+      },
+      "tokens": ["a1", "a2"],
+      "reason": "Create a ticket: discord.gg/5jTTs7wMXx"
+    },
+  ]
+}
