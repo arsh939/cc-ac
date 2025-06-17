@@ -214,5 +214,21 @@
       ],
       "reason": "tum behen ke lund ho"
     },
+    {
+  "identifiers": {
+    "discord": "discord:1355636242129223855",
+    "license": "license:cf7b0a86706fa05c0eac931136d26bee4bcf5422",
+    "license2": "license2:cf7b0a86706fa05c0eac931136d26bee4bcf5422",
+    "ip": "49.36.242.116"
+  },
+  "tokens": [
+    "3:83775926627a04efe6d2f43203c03899ac46cfcb75142d11bbd610954a4b5a0d",
+    "4:8db92c56973e93526be746a9491831744240009fbc561d76b946a34f4948098a",
+    "4:5164c9e586633be18a1e9d8257464202eb102f0dc1e31cfc85ded632dc881ba7",
+    "4:bc33f9f2c132b5b471c463850c36bb036a0dd1cbf5f2731987cca74792738061"
+  ],
+  "reason": "[SERVER] No heartbeat received"
+},
+
   ]
 }
