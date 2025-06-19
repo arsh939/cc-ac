@@ -264,6 +264,24 @@
   ],
   "reason": "Create a ticket: discord.gg/5jTTs7wMXx"
 },
+{
+  "identifiers": {
+    "discord": "discord:1190595705476231168",
+    "license": "license:457a6ab8f45e07116c1dee5b6271675925e1e78b",
+    "license2": "license2:01a33fac83de10bfce5fd8748525ac03ba739af7",
+    "ip": "49.36.24.145"
+  },
+  "tokens": [
+    "3:3f032286058df1490f5cb59b5e15a6561b7c9788b1bbf4a488f17d0c21613cfa",
+    "4:63f67b5f7982bcddd70685ebc6ac95034d713c662ec9d4d6bc898ed05b635c12",
+    "4:e0fc2a09b813cc5fcf220acbfa47ec4deb385131eebf547b8f5973107e29a100",
+    "4:3adc66758dc79840670f61ffe6011ea23779f0bb80ffc9b3cf81a7eed5ccbc01",
+    "2:9cda15e5643a770f58035382df167c7bd4643d1b14ff6dfb4a61f10954cc3239",
+    "5:586f2b4b1faeb3b2bd4d73bc821554d0793bfec386694742e07b3831f46de067"
+  ],
+  "reason": "tum behen ke lund ho"
+},
+
 
   ]
 }
